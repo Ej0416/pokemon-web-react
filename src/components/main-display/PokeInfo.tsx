@@ -5,7 +5,7 @@ function PokeInfo() {
             className="
             bg-white rounded-md flex
             flex-col drop-shadow-md
-            p-3 h-full w-full
+            p-3 h-[554px] w-full 
 "
         >
             <div
