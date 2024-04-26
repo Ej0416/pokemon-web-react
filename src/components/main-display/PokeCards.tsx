@@ -6,8 +6,7 @@ function PokeCards() {
             className="
                     bg-white rounded-md flex
                     flex-col drop-shadow-md
-                    p-3
-                    h-[270px]
+                    p-3 h-[270px]
         "
         >
             <div

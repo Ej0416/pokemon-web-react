@@ -23,7 +23,7 @@ function SearchBar() {
             flex flex-row items-center 
             justify-center h-11 rounded-lg 
             bg-white overflow-hidden
-            drop-shadow-md 
+            drop-shadow-md sticky top-3 z-10
             "
         >
             <SearchInput setSearch={setSearch} />
