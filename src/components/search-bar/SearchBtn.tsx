@@ -16,7 +16,9 @@ function SearchBtn({ searchPokemon }: SearchPokemon) {
                     bg-red-500 min-w-10 
                     h-4/5 flex items-center 
                     justify-center rounded-lg 
-                    drop-shadow-3xl"
+                    drop-shadow-3xl
+                    "
+                disabled
                 onClick={() => searchPokemon()}
             >
                 <FaSearch color="white" />
